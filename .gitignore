@@ -1,0 +1,12 @@
+# Frontend (Node / Expo)
+node_modules/
+.expo/
+dist/
+npm-debug.log
+
+# Backend (Python / FastAPI)
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
